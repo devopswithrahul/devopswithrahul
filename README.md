@@ -7,7 +7,7 @@
 
 I architect, automate, and optimize cloud infrastructure that’s **fast to deploy**, **secure by design**, and **built to scale** — so your team ships confidently, sleeps soundly, and grows without limits.
 
-With 4+ years of hands-on DevOps experience, I help startups and global companies build resilient, production-grade systems powered by automation, security best practices, and cost-efficiency.
+With 2+ years of hands-on DevOps experience, I help startups and global companies build resilient, production-grade systems powered by automation, security best practices, and cost-efficiency.
 
 ---
 
